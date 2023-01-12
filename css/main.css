@@ -5,6 +5,13 @@ body {
 }
 
 
+@media (max-width: 767px) {
+    .navbar {
+      display: block;
+    }
+  }
+
+
 header {
     margin-top: 75px;
 }
@@ -56,3 +63,4 @@ html{
 #container {
     font-size: 50%;
 }
+
