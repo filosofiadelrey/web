@@ -1,0 +1,58 @@
+body {
+    background-color: #606060;
+    font-family: 'Tw', sans-serif;
+    color: white;
+}
+
+
+header {
+    margin-top: 75px;
+}
+
+#motivational {
+    background: white;
+    color: #fcb817;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40pxx;
+}
+
+.navbar-nav.ms-auto a {
+    color: #fcb817;
+    font-size: larger;
+  }
+
+
+ #social {
+  
+    background: white;
+    color: #fcb817;
+    padding: 50px 0 50px 0;
+    text-align: center;
+    margin-top: 110px;
+    /* margin-left: 140px;
+    margin-right: 140px; */
+}
+
+
+@font-face {
+    font-family: Eras;
+    src: url('../fonts/eras/eras-light-itc.ttf');
+   
+}
+
+
+@font-face {
+    font-family: Tw;
+    src: url('../fonts/tw/tw-cen-mt-condensed-extra-bold.ttf');
+   
+}
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+#container {
+    font-size: 50%;
+}
