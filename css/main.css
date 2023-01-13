@@ -17,16 +17,16 @@ header {
 }
 
 #motivational {
-    background: #606060;
-    color: white;
+    background: white;
+    color: #606060;
     padding: 50px 0 30px 0;
     text-align: center;
     margin-top: 40pxx;
 }
 
 .navbar-nav.ms-auto a {
-    color: #000;
-    font-size: larger;
+    color: #606060;
+    font-size: x-large;
   }
 
 
@@ -40,6 +40,16 @@ header {
     /* margin-left: 140px;
     margin-right: 140px; */
 }
+
+#negritas {
+    color: white;
+    font-weight: bolder;
+}
+
+#negritas2 {
+    color: #606060;
+}
+
 
 
 @font-face {
